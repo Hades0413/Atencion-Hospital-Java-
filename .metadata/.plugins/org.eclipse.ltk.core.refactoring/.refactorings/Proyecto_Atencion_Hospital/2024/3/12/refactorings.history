@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;guis.Proyecto_AED_2021_I&apos; to &apos;DlgAtencionHospital&apos;&#x0D;&#x0A;- Original project: &apos;Proyecto_Atencion_Hospital&apos;&#x0D;&#x0A;- Original element: &apos;guis.Proyecto_AED_2021_I&apos;&#x0D;&#x0A;- Renamed element: &apos;guis.DlgAtencionHospital&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update fully qualified names in &apos;*&apos; files&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Proyecto_AED_2021_I&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;guis{Proyecto_AED_2021_I.java[Proyecto_AED_2021_I" matchStrategy="1" name="DlgAtencionHospital" patterns="*" qualified="true" references="true" similarDeclarations="true" stamp="1710715150618" textual="true" version="1.0"/>
+</session>

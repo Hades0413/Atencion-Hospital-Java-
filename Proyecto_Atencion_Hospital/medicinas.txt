@@ -1,0 +1,5 @@
+30001;Denticel;Alcor;150;12.6
+30002;Ginko Bilboa 40 mg;Bescansa;100;26.7
+30003;Ivarradina 5 mg;Chemo Ibérica;300;20.4
+30004;Alprazolam 1 mg;Dermogem Farma S.A.;200;12.7
+30005;Testim Gel Transdérmico 50 mg;Endo Venture Limited;250;18.2
